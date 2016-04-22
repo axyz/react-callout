@@ -1,6 +1,6 @@
 {
   "name": "react-callout",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight and stateless callout component for React.js",
   "main": "dist/react-callout.js",
   "scripts": {
